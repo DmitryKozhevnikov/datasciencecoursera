@@ -1,0 +1,14 @@
+---
+title: "Hello World"
+author: "Dmitry Kozhevnikov"
+date: "28 01 2020"
+output:
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
